@@ -1,0 +1,23 @@
+Message-ID: <8882ca68b4e115bc58c481bd91a10442@localhost>
+Date: Fri, 05 Jun 2015 17:16:13 +0000
+Subject: Message subject
+From: from@domain.com
+To: to@domain.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1433524573_de847936feccc87b52128188cc7fb252_=_"
+
+
+--_=_swift_v4_1433524573_de847936feccc87b52128188cc7fb252_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Plain text content
+
+--_=_swift_v4_1433524573_de847936feccc87b52128188cc7fb252_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<b>HTML content</b>
+
+--_=_swift_v4_1433524573_de847936feccc87b52128188cc7fb252_=_--

@@ -1,0 +1,23 @@
+Message-ID: <62a9b0bb5f13fb4107607d189d02039c@localhost>
+Date: Fri, 05 Jun 2015 17:42:11 +0000
+Subject: Message subject
+From: raulrotundo@gmail.com
+To: 1137711976@sms.ctimovil.com.ar
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1433526131_4ff1d109e30c5193a44edb86f653dbd2_=_"
+
+
+--_=_swift_v4_1433526131_4ff1d109e30c5193a44edb86f653dbd2_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Plain text content
+
+--_=_swift_v4_1433526131_4ff1d109e30c5193a44edb86f653dbd2_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<b>HTML content</b>
+
+--_=_swift_v4_1433526131_4ff1d109e30c5193a44edb86f653dbd2_=_--

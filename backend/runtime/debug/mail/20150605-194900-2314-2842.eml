@@ -1,0 +1,23 @@
+Message-ID: <1a4c2f0fdc1af5ea99fd0f96b324d608@localhost>
+Date: Fri, 05 Jun 2015 19:48:57 +0000
+Subject: Message subject
+From: raulrotundo@gmail.com
+To: 1137711976@igprs.claro.com.ar
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1433533737_7e701e31210ab9b2ca75f1b9785114e5_=_"
+
+
+--_=_swift_v4_1433533737_7e701e31210ab9b2ca75f1b9785114e5_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Plain text content
+
+--_=_swift_v4_1433533737_7e701e31210ab9b2ca75f1b9785114e5_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<b>HTML content</b>
+
+--_=_swift_v4_1433533737_7e701e31210ab9b2ca75f1b9785114e5_=_--

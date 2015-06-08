@@ -1,0 +1,23 @@
+Message-ID: <8a9417d301b1169aa15d7674d2940314@localhost>
+Date: Fri, 05 Jun 2015 17:38:10 +0000
+Subject: Message subject
+From: raulrotundo@gmail.com
+To: raulrotundo@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1433525890_04f1a0a3a9158bdc280d01292f22c838_=_"
+
+
+--_=_swift_v4_1433525890_04f1a0a3a9158bdc280d01292f22c838_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Plain text content
+
+--_=_swift_v4_1433525890_04f1a0a3a9158bdc280d01292f22c838_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<b>HTML content</b>
+
+--_=_swift_v4_1433525890_04f1a0a3a9158bdc280d01292f22c838_=_--

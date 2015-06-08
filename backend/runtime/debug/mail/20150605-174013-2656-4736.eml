@@ -1,0 +1,23 @@
+Message-ID: <8976c77ba645fd8bcae73b351e1d0b5e@localhost>
+Date: Fri, 05 Jun 2015 17:40:09 +0000
+Subject: Message subject
+From: raulrotundo@gmail.com
+To: 1137711976@sms.claro.com.ar
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1433526009_8125f950deb6076e36a4ab8eedb747d0_=_"
+
+
+--_=_swift_v4_1433526009_8125f950deb6076e36a4ab8eedb747d0_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Plain text content
+
+--_=_swift_v4_1433526009_8125f950deb6076e36a4ab8eedb747d0_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<b>HTML content</b>
+
+--_=_swift_v4_1433526009_8125f950deb6076e36a4ab8eedb747d0_=_--
